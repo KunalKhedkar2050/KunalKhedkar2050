@@ -36,7 +36,7 @@ At the core of everything I do, I am an analyst and problem-solver who thrives o
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,postgres,github,cpp,cs,unity" /><br>
+    <img src="https://skillicons.dev/icons?i=python,postgres,github,cpp,cs,aws,gcp,azure,docker" /><br>
 
   </a>
 </p>

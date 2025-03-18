@@ -45,13 +45,13 @@ At the core of everything I do, I am an analyst and problem-solver who thrives o
  
 ## Connect with me 🤝🏻
 
-<a href="https://www.linkedin.com/in/kunal-khedkar-2506791b5/" target="_blank">
+<a href="https://www.linkedin.com/in/kunal-b-khedkar/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="mailto:kunal.khedkar2050@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=mail style="margin-bottom: 5px;" />
 </a> 
-<a href="https://github.com/" target="_blank">
+<a href="https://github.com/KunalKhedkar2050" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
  <br/>

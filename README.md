@@ -61,7 +61,7 @@ At the core of everything I do, I am an analyst and problem-solver who thrives o
  
 
 <h4 align="center">
-  <a href="[https://github.com/KK3003?tab=repositories](https://github.com/KunalKhedkar2050?tab=repositories)" title="Show Repositories">🔎 Show Repositories 🔍</a>
+  <a href="https://github.com/KunalKhedkar2050?tab=repositories" title="Show Repositories">🔎 Show Repositories 🔍</a>
 </h4>
 
 </div>
